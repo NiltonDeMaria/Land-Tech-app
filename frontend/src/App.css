@@ -1,0 +1,52 @@
+
+
+.borda {
+    border: 2px solid #BE19E9;
+    color: white;
+}
+
+.principal {
+    color: white;
+    background-color: #9c3cdc55;
+}
+
+.principal:hover {
+    color: white;
+    background-color: #9c3cdc55;
+}
+
+.button-principal {
+    background-color: #5c0099;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+
+.link:hover {
+    text-decoration: underline;
+    color: #ffa1fa;
+}
+
+tr:hover {
+    color: #ffa1fa;
+    background-color: #ffa1fa22;
+}
+
+input {
+    background-color: #9d09c2;
+    color: white;
+    padding: 8px 10px;
+    border: 3px solid #5c0099;
+    border-radius: 10px;
+}
+
+input:hover {
+    background-color: #7d069b;
+}
+
+.excluir {
+    background-color: #39035d;
+}
