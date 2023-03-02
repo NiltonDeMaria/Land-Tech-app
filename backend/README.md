@@ -1,6 +1,7 @@
-# Client do projeto
+# Server do projeto
 
-App com CRUD para administrar os cursos.
+- http://localhost:3000
+- http://localhost:3000/conteudo
 
 ## Como executar?
 No terminal:

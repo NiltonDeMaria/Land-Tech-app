@@ -1,12 +1,9 @@
 
-# Server do projeto
+# Client do projeto
 
-- http://localhost:3000
-- http://localhost:3000/conteudo
+App com CRUD para administrar os cursos.
 
 ## Como executar?
 No terminal:
 - npm install
 - npm run dev
-
-
