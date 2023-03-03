@@ -2,6 +2,7 @@ html,
 body,
 #root {
   width: 100%;
+  min-height: 900px;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 }
 
 body {
-  background-image: url(./fundo.jpg);
+  background-image: url(./fundo.jpeg);
   background-repeat: round;
 
 }
